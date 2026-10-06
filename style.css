@@ -1,0 +1,41 @@
+/* this is the font and other settings for almost all of the website */
+body {
+    font-family:'Times New Roman', Times, serif;
+    background-image: url(https://static0.srcdn.com/wordpress/wp-content/uploads/2021/05/Featured-Image-Hollow-Knight-Statue-Cropped.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(64, 64, 110);
+    color: white;
+    text-align: center;
+}
+
+/* this is the settings for links */
+a:visited {
+    color: lightgreen;
+}
+
+a:link {
+    color:lightblue;
+}
+
+/* this is the section for headings */
+h1 {
+    background-color: black;
+    margin: 5px;
+    padding: 5px;
+}
+
+/* this is the settings for the navigation bar */
+.navbar {
+    background-color: white;
+    padding: 18px;
+}
+.nav-link {
+    padding-left: 10%;
+    padding-right: 10%;
+    width: 50%;
+    color: darkblue;
+}
+
+
+
